@@ -7,33 +7,44 @@ body {
   background-image: url(dibujo/fondoesq-0.gif);
   background-attachment: fixed;
 }
+
 a:link {
   color: #ff6633;
 }
+
 a:hover {
   color: #0066ff;
 }
+
 a:visited {
   color: #3CBE6E;
 }
-.table3 { /*Index page*/
+
+.table3 {
+  /*Index page*/
   width: 100%;
   border: 2px solid #CA8035;
   text-align: center;
 }
-.td1 { /*Table3: Index. page Dch*/
+
+.td1 {
+  /*Table3: Index. page Dch*/
   top: 10px;
   left: 15px;
   width: 250px;
   border: 1px solid #ca8035;
 }
-.td2 { /*Table3; Index. page Izd*/
+
+.td2 {
+  /*Table3; Index. page Izd*/
   top: 10px;
   left: 500px;
   width: 100%;
   border: 1px solid #ca8035;
 }
-#col1 { /*Listados: Libros. Sch's. Cuadro Izd*/
+
+#col1 {
+  /*Listados: Libros. Sch's. Cuadro Izd*/
   text-align: center;
   position: fixed;
   top: 10px;
@@ -41,13 +52,17 @@ a:visited {
   width: 258px;
   border: 1px solid;
 }
-#col2 { /*Listados: Libros. Sch's. Cuadro Dch*/
+
+#col2 {
+  /*Listados: Libros. Sch's. Cuadro Dch*/
   font-size: 16px;
   margin-left: 265px;
   margin-right: 10px;
   line-height: 100%;
 }
-.td3 { /*Listados: Libros. Sch's. Solo cabecera*/
+
+.td3 {
+  /*Listados: Libros. Sch's. Solo cabecera*/
   position: fixed;
   vertical-align: top;
   left: 300px;
@@ -55,45 +70,57 @@ a:visited {
   color: #666666;
   background-color: transparent;
 }
-.td4 { /*Listados: Libros. Sch's. SubDirectorios*/
+
+.td4 {
+  /*Listados: Libros. Sch's. SubDirectorios*/
   color: #000000;
   /*	font-size: 14px;*/
 }
+
 h1 {
   font-size: 30px;
 }
+
 h2 {
-  style;
-  color: ffffff;
-  fnt-size: 24px;
+  color: #ffffff;
+  font-size: 24px;
   text-align: center;
 }
+
 h3 {
   font-size: 18px;
   text-align: center
 }
+
 .font10 {
   font-size: 10px;
 }
+
 .font12 {
   font-size: 12px;
 }
+
 .font16 {
   font-size: 16px;
 }
+
 .font18 {
   font-size: 18px;
 }
+
 .font18a {
   font-size: 18px;
   color: black;
 }
+
 .font20 {
   font-size: 20px;
 }
+
 .font22 {
   font-size: 22px;
 }
+
 .font24 {
   font-size: 24px;
 }

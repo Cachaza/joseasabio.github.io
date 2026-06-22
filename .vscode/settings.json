@@ -1,6 +1,0 @@
-{
-  "editor.defaultFormatter": "vscode.html-language-features",
-  "editor.defaultFoldingRangeProvider": "vscode.html-language-features",
-  "chat.extensionUnification.enabled": true,
-  "chat.disableAIFeatures": false
-}
